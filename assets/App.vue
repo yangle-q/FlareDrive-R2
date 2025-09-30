@@ -210,7 +210,7 @@ export default {
     showUploadPopup: false,
     uploadProgress: null,
     uploadQueue: [],
-    backgroundImageUrl: "/assets/bg-light.webp"
+    backgroundImageUrl: "/assets/63999143_p0_master1200.jpg"
   }),
 
   computed: {
